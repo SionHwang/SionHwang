@@ -3,11 +3,6 @@
 <!--
 **SionHwang/SionHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-__< ENGLISH Introduce >__     
-Hi, i'm sionhwang who is a High School Student in ROK. 
-i'm very interest apply computer science and math application methods in ict.
-But, i'm still need to do study. Because now i forget what i thought i knew exactly.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,6 +13,14 @@ But, i'm still need to do study. Because now i forget what i thought i knew exac
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+__< ENGLISH Introduce >__     
+Hi, i'm sionhwang who is a High School Student in ROK. 
+i'm very interest apply computer science and math application methods in ict.
+But, i'm still need to do study. Because now i forget what i thought i knew exactly.
+
+
+
 
 
 __< 한국어 소개 >__      
