@@ -15,9 +15,9 @@
 -->
 
 __< ENGLISH Introduce >__     
-Hi, i'm sionhwang who is a High School Student in ROK. 
-i'm very interest apply computer science and math application methods in ict.
-But, i'm still need to do study. Because now i forget what i thought i knew exactly.
+Hi, i'm sionhwang who is a High School Student in S, Korea. 
+i'm very interest in apply computer science and math application methods in ICT.
+But, i'm still need to do study. Because now I forget which I knew exactly.
 
 
 
