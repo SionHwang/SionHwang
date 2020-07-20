@@ -14,6 +14,11 @@
 - ⚡ Fun fact: ...
 -->
 
+
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=SionHwang&show_icons=true)
+
+
 __< ENGLISH Introduce >__     
 Hi, i'm sionhwang who is a High School Student in S, Korea. 
 i'm very interest in apply computer science and math application methods in ICT.
