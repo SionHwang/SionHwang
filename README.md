@@ -24,7 +24,8 @@ Hi, i'm sionhwang who is a High School Student in S, Korea.
 i'm very interest in apply computer science and math application methods in ICT.
 But, i'm still need to do study. Because now I forget which I knew exactly.
 
-
+#### 
+Programming languages can cover C, Java, Python.
 
 
 
@@ -36,7 +37,7 @@ __< 한국어 소개 >__
 
 #### 무엇을 할 수 있나요?
 
-프로그래밍 언어는 C, Java, Python 등을 다룰 줄 압니다.   
+프로그래밍 언어는 C, Java, Python 을 다룰 줄 압니다.   
 웹 언어는 PHP, HTML, CSS를 다룰 줄 알며 주로 PHP에서 MVC패턴을 이용합니다.
 
 
